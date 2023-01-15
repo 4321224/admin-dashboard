@@ -5,3 +5,6 @@ import dotenv from 'dotenv'
 import helmet from "helmet";
 import morgan from "morgan";
 import mongoose from "mongoose";
+
+
+// how to connect mongoose in nodejs?
